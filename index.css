@@ -1,0 +1,67 @@
+body
+{
+    background-color: #003262;
+}
+.container-fluid
+    {
+    background-color: #1F305E;
+}
+p
+{
+    color: yellow;
+}
+#name_heading   
+{
+    font-family: 'Raleway', sans-serif;
+     font-family: 'Yatra One', cursive;
+    padding:2px;
+    box-sizing: border-box;
+    color: aliceblue;
+}
+
+ul,li 
+{ 
+    box-sizing: content-box;
+    list-style-type: none;
+    padding-right:20px;
+    padding-top: 8px;
+    text-decoration:none;
+    float:right;
+}
+a:hover
+{
+    color:#E3DAC9;
+    font-size: larger;
+}
+a
+{
+    text-decoration: none;
+    color: antiquewhite;
+}
+#divbar_image
+{
+    padding-top:5px;
+    /* background-color: yellow; */
+} 
+#divbar_image:hover
+{
+    background-color: thistle; 
+    border-radius:20px;
+    border:2px solid white;
+}
+#second-part-of-page
+{
+    background-color: #007BA7   ;
+}
+#profile_image
+{
+    border-radius:155px;
+}
+h2
+{
+    color: lightyellow;
+}
+.ritx
+{
+    height: 90px;
+}
