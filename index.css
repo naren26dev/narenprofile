@@ -8,7 +8,7 @@ body
 }
 p
 {
-    color: yellow;
+    color: wheat;
 }
 #name_heading   
 {
@@ -64,4 +64,14 @@ h2
 .ritx
 {
     height: 90px;
+}
+iframe
+{
+    width:100%;
+}
+footer 
+{
+    width:100%;
+    text-align:center;
+    background-color: #49306B;
 }
